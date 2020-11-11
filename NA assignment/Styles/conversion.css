@@ -1,0 +1,6 @@
+*{
+    box-sizing: border-box;
+}
+.container{
+    transform: translateY(250px);
+}
