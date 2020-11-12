@@ -4,7 +4,6 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     height:100%;
-    overflow: hidden;
 }
 html{
     height:100%;
@@ -69,7 +68,7 @@ html{
   
   .flip-card-front {
     color: white;
-    font-family: "Brush Script MT";
+    font-family: "Cambria";
 	font-size: 40px;
   }
   

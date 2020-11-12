@@ -1,6 +1,9 @@
 body{
     
     background-repeat: no-repeat;
+    background-image: url(../back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 
@@ -26,4 +29,8 @@ body{
 {
     margin-top: 40px;
     margin-left: 600px;
+}
+.Results{
+margin-left: 600px;
+margin-top: 20px;
 }

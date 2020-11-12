@@ -2,5 +2,10 @@
     box-sizing: border-box;
 }
 .container{
-    transform: translateY(250px);
+    transform: translateY(150px);
+}
+.head{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
 }
